@@ -1,8 +1,14 @@
 {
   "name": "patternfly",
-  "version": "3.59.5",
+  "version": "3.59.5-lineaje-01",
   "author": "Red Hat",
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "dependencies": {
     "bootstrap": "~3.4.1",
     "font-awesome": "^4.7.0",
@@ -141,7 +147,7 @@
   "description": "This reference implementation of PatternFly is based on [Bootstrap v3](http://getbootstrap.com/).  Think of PatternFly as a \"skinned\" version of Bootstrap with additional components and customizations.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/patternfly/patternfly-3.git"
+    "url": "https://github.com/lineaje-labs-gos/patternfly-patternfly-3"
   },
   "bugs": {
     "url": "https://github.com/patternfly/patternfly-3/issues"
